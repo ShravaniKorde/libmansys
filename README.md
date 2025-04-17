@@ -1,3 +1,3 @@
-# libmansys
+# Library Management System
 
 
